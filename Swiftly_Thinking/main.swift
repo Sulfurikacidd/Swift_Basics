@@ -7,5 +7,6 @@
 
 import Foundation
 
-print("Hello, World!")
-
+//Swift_Basics
+print(greeting);
+print(myFirstItem);
